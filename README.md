@@ -1,16 +1,38 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**NataliaOrtizMa/NataliaOrtizMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # Hi, I'm Natalia!
+  
+  #### I'm passionate about programming 💻 and environment care 🌳
+  
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nataliaortizma/)](https://www.linkedin.com/in/nataliaortizma/)
+  [![](https://img.shields.io/badge/Gmail-ing.nataliaortizma%40gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
+  
+</div>  
 
-Here are some ideas to get you started:
+### 🙋🏽 About Me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 👩🏽‍🔧 Mechatronics Engineer
+* 👩🏽‍💻 Full-stack Web Developer
+* 👩🏽‍🎓 Platzi Student
+* 👩🏽‍🌾 Passionate about tech-agriculture
+
+<img  align='left' src="https://i.imgur.com/fFm2LU8.jpg"/>
+
+### 💻 Tech Stack 
+
+    export default () => ({
+      frontEnd: {
+        css: ["sass", "bootstrap"],
+        js: ["angular"]
+      }
+      backEnd: {
+        js: ["node", "express"],
+        python: ["flask"]
+      }
+      databases: ["mongoDB", "MySQL"],
+      cloud: ["AWS", "docker"]
+    });
+    
+### 📚 To Learn
+
+    ReactJS | Angular | Docker
