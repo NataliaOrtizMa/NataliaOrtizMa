@@ -15,6 +15,7 @@
 * 👩🏽‍💻 Full-stack Web Developer
 * 👩🏽‍🎓 Platzi Student
 * 👩🏽‍🌾 Passionate about tech-agriculture
+* 🇫🇷 Currently learning French 
 
 <img  align='left' src="https://i.imgur.com/fFm2LU8.jpg"/>
 
@@ -22,17 +23,19 @@
 
     export default () => ({
       frontEnd: {
-        css: ["sass", "bootstrap"],
-        js: ["angular"]
+        css: ["sass", "bootstrap", "materialUI],
+        js: ["angular", "react"]
       }
       backEnd: {
+        java: ["spring"],
         js: ["node", "express"],
         python: ["flask"]
       }
       databases: ["mongoDB", "MySQL"],
+      devOps: ["jira", "jenkins", "sonar", "bitbucket"]
       cloud: ["AWS", "docker"]
     });
     
 ### 📚 To Learn
 
-    ReactJS | Angular | Docker
+    AWS | Docker
